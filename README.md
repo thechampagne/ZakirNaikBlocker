@@ -1,0 +1,1 @@
+A Chromium-based extension that block websites specified in `blacklist.json`
